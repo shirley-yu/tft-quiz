@@ -1,0 +1,101 @@
+{
+  "emotes": [
+    {
+      "type": "correct",
+      "images": [
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Nice_Try_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120232226"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d6/Scout-Approved_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120233445"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d5/Cup-Yay%21_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120234426"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Gonna_Be_A_Blast_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120235551"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e8/Cheeky_Poro_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120235909"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1b/Clean_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120233037"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dd/Delightify_Emote.png/revision/latest/scale-to-width-down/90?cb=20171121000101"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2d/Happy_To_See_You_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120231913"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Charmed_Emote.png/revision/latest/scale-to-width-down/90?cb=20171106215721"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8f/D%27Pengu_Emote.png/revision/latest/scale-to-width-down/90?cb=20180224184508"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/93/Bee_Happy_Emote.png/revision/latest/scale-to-width-down/90?cb=20180508203945"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Hype_Kitty_Emote.png/revision/latest/scale-to-width-down/90?cb=20180308201444"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/48/Okay_Emote.png/revision/latest/scale-to-width-down/90?cb=20180601212654"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/ab/It_Me_Emote.png/revision/latest/scale-to-width-down/90?cb=20190502222013"
+        }
+      ]
+    },
+    {
+      "type": "incorrect",
+      "images": [
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/ab/Sad_Kitten_Emote.png/revision/latest/scale-to-width-down/90?cb=20171106215757"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/99/Bee_Sad_Emote.png/revision/latest/scale-to-width-down/90?cb=20180508204109"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/57/Angry_Kitten_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120234449"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e3/Despair_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120231702"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1b/Does_Not_Compute_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120235504"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2d/Hoppin_Mad_Emote.png/revision/latest/scale-to-width-down/90?cb=20171120231742"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5d/Was_that_Me%3F_Emote.png/revision/latest/scale-to-width-down/90?cb=20180224185454"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/59/Goodbye%2C_Friend%21_Emote.png/revision/latest/scale-to-width-down/90?cb=20180224190901"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8f/Yikes_Emote.png/revision/latest/scale-to-width-down/90?cb=20180601212733"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a1/Are_You_Serious_Emote.png/revision/latest/scale-to-width-down/90?cb=20180706203529"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f5/So_Lame_Emote.png/revision/latest/scale-to-width-down/90?cb=20180731211732"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5b/Are_You_Kidding%3F_Emote.png/revision/latest/scale-to-width-down/90?cb=20190110054925"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/88/Fired_Up_Emote.png/revision/latest/scale-to-width-down/90?cb=20190221232553"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/79/Dislike_Emote.png/revision/latest/scale-to-width-down/90?cb=20190502221937"
+        },
+        {
+          "img": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Never_Again_Emote.png/revision/latest/scale-to-width-down/90?cb=20190502221951"
+        }
+      ]
+    }
+  ]
+}
